@@ -1,0 +1,6 @@
+tap "homebrew/bundle"
+tap "homebrew/core"
+tap "homebrew/services"
+brew "dnsmasq"
+brew "nginx"
+brew "php"
